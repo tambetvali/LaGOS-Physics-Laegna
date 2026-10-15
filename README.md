@@ -1,4 +1,4 @@
-![LaGOS-Cover](LaGOS-Cover-ChatGPT.png)
+![LaGOS-Cover](Gfx/LaGOS-Cover-ChatGPT.png)
 
 <br>
 
@@ -232,7 +232,7 @@ Space between digits:
 
 ---
 
-![LaGOS1](LaGOS1-CoPilot.png)
+![LaGOS1](Gfx/LaGOS1-CoPilot.png)
 
 <br>
 
@@ -458,7 +458,7 @@ Only scope changes.
 
 ---
 
-![LaGOS2](LaGOS2-CoPilot.png)
+![LaGOS2](Gfx/LaGOS2-CoPilot.png)
 
 <br>
 
@@ -925,4 +925,4 @@ The voyage continues.
 
 <br>
 
-![LaGOS-Ending](LaGOS-EndingChatGPT.png)
+![LaGOS-Ending](Gfx/LaGOS-EndingChatGPT.png)
