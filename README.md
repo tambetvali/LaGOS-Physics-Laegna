@@ -1,3 +1,7 @@
+![LaGOS-Cover](LaGOS-Cover-ChatGPT.png)
+
+<br>
+
 # LaGOS-Physics-Laegna
 LaGOS is the tenary (quaternary, base-4) concurrent operation system of Nature: a possible projection of Laegna SI system of it's measure.
 
@@ -228,6 +232,12 @@ Space between digits:
 
 ---
 
+![LaGOS1](LaGOS1-CoPilot.png)
+
+<br>
+
+CoPilot takes over now:
+
 # LaGOS Physics / Laegna Physics
 ## Representation, Physical Anchors, and the Search for a Unified Coordinate Language
 
@@ -447,6 +457,10 @@ The meaning remains invariant:
 Only scope changes.
 
 ---
+
+![LaGOS2](LaGOS2-CoPilot.png)
+
+<br>
 
 # Towards a Laegna SI System
 
@@ -906,3 +920,9 @@ Its current achievement is the proposal of a common language for discussing:
 - representation itself.
 
 The voyage continues.
+
+---
+
+<br>
+
+![LaGOS-Ending](LaGOS-EndingChatGPT.png)
