@@ -1,3 +1,7 @@
+![LaSecsLogo](LaSecsLogo.png)
+
+<br>
+
 ChatGPT short intro:
 
 Laegna Genesis explores recurring rank symmetries across mathematics, physics, information theory, systems theory, Daoism, the I Ching, and spiritual symbolism. Through the complementary perspectives of Logos (root and cause) and Legos (completion and goal), it investigates how patterns may repeat across scales, from infinitesimal beginnings to expansive structures.
@@ -835,3 +839,7 @@ Never confuse analogy with proof.
 Only after lower-rank consistency is established should higher-rank mappings be taken seriously.
 
 Until then, Laegna Genesis should be understood as a multidisciplinary research journal exploring possible symmetries between ways of describing reality, rather than a finished theory of reality itself.
+
+<br>
+
+![LaSecsLego](LaSecsLego.png)
