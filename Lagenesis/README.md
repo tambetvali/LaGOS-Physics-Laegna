@@ -31,6 +31,8 @@ Yang: The Legos of the Genesis
 > - Logos is Schroedinger delta or d - twice, in his primary equation there is derivative of delta, the small d, and in added equation there is the seed of this delta, the triangle capital D.
 >   - First Logos, Word of God, is the 1 plack unit in time and space symmetric wave; at this point is the Octave of Theory of Relativity: limit to infinity makes 1m width and 2m depth object into 1m width and 0.5m depth object, which is one octave degree: 1/sqrt(2) becomes sqrt(2)\1, so in completeness, space complexity => infinity degree / rank => curvature has added 1, next octave is drawn which has same shape, but different curvature; it also appears as next infinitesimal up in frequency of hologram, symbiotic to 1 whole digit which repeats the pattern.
 >   - Last Legos is Time's limit value with precision of planck unit reversed upwards to limit value at infinity of scope, and this is fractal space: the operation, fractally, at each octave draws the reverse-double-integral, differential doubled levels.
+>
+> Lego: relates to "I assemble" in Latin; construct reality. Logos is cause - Legos is goal. It relates how "e" relates to "a" - in Laegna, how plus yang relate to plus yin, so it's a mathematically efficient way to state it in Laegna Letters; until now we only learn dispositions: how to change one word to another, by changing a single letter, to remove self-referential paradox of literal logic and letter-word relations.
 
 Legos and Logos:
 - From physics we know funny theorem that we cannot measure speed and position simultaneously.
