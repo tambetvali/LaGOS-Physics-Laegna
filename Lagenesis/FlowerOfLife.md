@@ -1,8 +1,10 @@
+![FoL Cover](FoLCover.png)
+
+<br>
+
 I asked CoPilot to formalize it's answer to article, as it looks as good popular-format introduction:
 
-For the following markdown article - create spiritual, mathematical, egiptian and little bit jewish, international and cosmic, and absolutely artistic and mathfilled image *not as cover but to illustrate central points just extremely well*, utilizing nature, cosmic and quantum, human-related (i.e. from tree of life) and mathematical shapes, formulations, symbolics, in way which meets the need of both scientific, symbolic and artistic => symmetries of nature's form; the article shows Flower of Life as parallel to wave physics white light progression from unit point:
-
-![LaTecimal Within](Gfx/LaTecWithin.png)
+> For the following markdown article - create spiritual, mathematical, egiptian and little bit jewish, international and cosmic, and absolutely artistic and mathfilled image *not as cover but to illustrate central points just extremely well*, utilizing nature, cosmic and quantum, human-related (i.e. from tree of life) and mathematical shapes, formulations, symbolics, in way which meets the need of both scientific, symbolic and artistic => symmetries of nature's form; the article shows Flower of Life as parallel to wave physics white light progression from unit point:
 
 <br>
 
@@ -1588,3 +1590,7 @@ Observe where Logos becomes Legos,
 while never confusing resemblance
 with proof.
 ```
+
+<br>
+
+![Flower of Life](FoL.png)
