@@ -1,4 +1,4 @@
-
+![Leon Maurer](LeonMaurer.png)
 
 ---
 
